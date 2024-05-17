@@ -4,3 +4,4 @@ The idea here was to expedite the process of filling addresses, which was previo
 I used Google Sheets to field address and contact information.
 Letters were "cleaned" for correct spacing and case-sensitivity.
 The "Fillable document" plugin was used to automatically generate final .docx files ready for printing.
+I have included one sample letter.
